@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+}
+img {
+    width: 100%;
+    height: auto;
+}
+.navo a:hover {
+    background-color: #d36135;
+}
+#footer {
+    width: 100%;
+    align-self: center;
+    bottom: 0;
+    height: 0rem;
+    background-color: #a24936;
+    position: absolute;
+}
+body{
+    background-image: linear-gradient(#000f0b, #6d466b);
+}
+article img {
+    float: left;
+    margin: 0rem 1rem 1rem 2rem;
+    width: 40%;
+    height: auto;
+}
+#page-container {
+    position: relative;
+    min-height: 100vh;
+  }
+  
+#content-wrap {
+    padding-bottom: 2.5rem;
+  }
+article p {
+    margin: 8rem 8rem 10rem 10rem;
+}
+article h3 {
+    margin: 0rem 8rem 0rem 0rem;
+}
